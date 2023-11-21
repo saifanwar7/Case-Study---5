@@ -1,0 +1,3 @@
+In the telecommunication industry, customers tend to change operators if not provided with attractive schemes and offers. It is very important for any telecom operator to prevent the present customers from churning to other operators. Given the fact that it costs times more to acquire a new customer than to retain an existing one, customer retention has now become even more important than customer acquisition.
+
+For many incumbent operators, retaining high profitable customers is the number one business goal. To reduce customer churn, telecom companies need to predict which customers are at high risk of churn.
